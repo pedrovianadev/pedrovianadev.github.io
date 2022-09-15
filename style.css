@@ -2,6 +2,10 @@ body{
     background-color: #4C6085;
 }
 
+.foto{
+    border-radius: 100%;
+}
+
 .meuNome{
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
@@ -11,5 +15,22 @@ body{
 }
 
 .resido{
+    font-style: italic;
+}
+
+.html{
+    font-size: 20px;
+}
+
+.css{
+    font-size: 19px;
+}
+
+.javascript{
+    font-size: 19px;
+}
+
+.leadership{
+    font-size: 20px;
     font-style: italic;
 }
